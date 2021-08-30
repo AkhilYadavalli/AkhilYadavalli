@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-08-30T14:49:53 IST" name="Default suite" finished-at="2021-08-30T14:49:59 IST" duration-ms="6009">
+    <groups>
+    </groups>
+    <test started-at="2021-08-30T14:49:53 IST" name="Default test" finished-at="2021-08-30T14:49:59 IST" duration-ms="6009">
+      <class name="testCases.BookFlightTickets">
+        <test-method is-config="true" signature="operURL()[pri:0, instance:testCases.BookFlightTickets@60dcc9fe]" started-at="2021-08-30T14:49:53 IST" name="operURL" finished-at="2021-08-30T14:49:56 IST" duration-ms="2453" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- operURL -->
+        <test-method signature="applicationUnderTest()[pri:0, instance:testCases.BookFlightTickets@60dcc9fe]" started-at="2021-08-30T14:49:56 IST" name="applicationUnderTest" finished-at="2021-08-30T14:49:59 IST" duration-ms="2836" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- applicationUnderTest -->
+        <test-method is-config="true" signature="Close()[pri:0, instance:testCases.BookFlightTickets@60dcc9fe]" started-at="2021-08-30T14:49:59 IST" name="Close" finished-at="2021-08-30T14:49:59 IST" duration-ms="693" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Close -->
+      </class> <!-- testCases.BookFlightTickets -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
